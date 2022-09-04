@@ -23,8 +23,7 @@ function solution(str, ending){
 ```
 
 ## Work Experience
-Weather-app:
-https://github.com/yuliiazubenko/weather-app
+[Weather-app](https://github.com/yuliiazubenko/weather-app)
 
 ## Education
 * University: Donetsk National University of Economics and Trade named after M. Tugan-Baranovsky
